@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+   
+      <title></title>
+   
+   <link>http://0.0.0.0:4000</link>
+   <description>A beautiful narrative written with the world's most elegant publishing platform. The story begins here.</description>
+   <language>en-uk</language>
+   <managingEditor> </managingEditor>
+   <atom:link href="rss" rel="self" type="application/rss+xml" />
+   
+	<item>
+	  <title>Gettysburg Address</title>
+	  <link>//gettysburg-address</link>
+	  <author></author>
+	  <pubDate>1863-11-19T10:18:00+00:00</pubDate>
+	  <guid>//gettysburg-address</guid>
+	  <description><![CDATA[
+	     <script>
+    document.addEventListener('DOMContentLoaded', function(){
+        document.querySelector('button').addEventListener('click', () => {
+            alert('something');
+        })
+    })
+</script>
+
+<p>Delete this post?</p>
+
+<p><button>Click Me</button></p>
+
+	  ]]></description>
+	</item>
+
+
+</channel>
+</rss>
